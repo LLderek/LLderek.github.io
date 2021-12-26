@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://llderek.github.io/first_post/</loc><lastmod>2021-12-26T11:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://llderek.github.io/</loc><lastmod>2021-12-26T11:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://llderek.github.io/posts/</loc><lastmod>2021-12-26T11:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://llderek.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://llderek.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://LLderek.github.io/</loc><lastmod>2021-12-26T11:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://LLderek.github.io/first_post/</loc><lastmod>2021-12-26T11:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://LLderek.github.io/posts/</loc><lastmod>2021-12-26T11:57:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://LLderek.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://LLderek.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
